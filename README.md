@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stasokok
+- 👋 Hi, I’m Stanislav
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on frontend development
